@@ -1,0 +1,5 @@
+   haveBusy_1  busyStart_'1979-03-22T19:00'  busyEnd_'16:51'  day_4  \
+0         1.0                           1.0              1.0    1.0   
+
+   timeSent_'19:40'  timeAnswered_'21:52'  answered_1  
+0               1.0                   1.0         1.0  
